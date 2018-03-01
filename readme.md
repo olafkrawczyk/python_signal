@@ -2,6 +2,8 @@
 
 Wyświetlanie danych csv z akcelerometru z Pythonem
 
+![alt text](https://github.com/olafkrawczyk/python_signal/raw/master/plotY.PNG "Plot screenshot")
+
 ## Wymagania
 * Python 3
 * matplotlib
