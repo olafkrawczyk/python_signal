@@ -1,6 +1,6 @@
 ## Wyświetlenie sygnału w Pythonie
 
-Wyświetlanie danych csv z akcelerometru z pythonnem
+Wyświetlanie danych csv z akcelerometru z Pythonem
 
 ## Wymagania
 * Python 3
